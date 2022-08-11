@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "4478b202-2c0f-44ab-81fc-e79afb1650b9",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:936346717063:environment/alveo-dev",
+    "templateArn" : "arn:aws:proton:us-east-1:936346717063:environment-template/eks-mng-karpenter-with-new-vpc",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "1"
+  }
+}
